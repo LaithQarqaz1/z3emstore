@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://z3emstore.com/sitemap.xml
+Host: z3emstore.com
